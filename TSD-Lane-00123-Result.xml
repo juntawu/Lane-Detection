@@ -1,0 +1,1757 @@
+<?xml version="1.0" encoding="zh_CN.UTF-8"?>
+<opencv_storage>
+<Frame00000TargetNumber>4.</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1200 1024 1170 989 1140 954</data></Position></Frame00000Target00000>
+<Frame00000Target00001>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 743 32 722 64 701 95 680 127 659 159 638 190 617 222 596 254 575
+      286 554 317 533 349 512 381 491 412 470 444 449 476 428 507 407
+      539 386 571 365 602 344</data></Position></Frame00000Target00001>
+<Frame00000Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1003 1024 988 989 972 954 957 919 941 884 926 849 910 814 895 779
+      879 744 864 709 848 674 833 639 817 604 802 569 786 534 770 499
+      755 464 739 429 724 394 708 359</data></Position></Frame00000Target00002>
+<Frame00000Target00003>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1279 643 1255 627 1231 611 1207 595 1183 579 1159 563 1134 547
+      1110 531 1086 515 1062 499 1038 483 1014 467 990 451 966 435 942
+      419 918 403 894 387 870 371 845 355 821 339</data></Position></Frame00000Target00003>
+<Frame00001TargetNumber>4.</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1200 1024 1170 989 1140 954</data></Position></Frame00001Target00000>
+<Frame00001Target00001>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 747 31 726 62 705 93 684 124 663 155 642 185 621 216 600 247 579
+      278 558 309 537 340 516 371 495 402 474 433 453 464 432 494 411
+      525 390 556 369 587 348</data></Position></Frame00001Target00001>
+<Frame00001Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1000 1024 985 989 969 954 953 919 937 884 922 849 906 814 890 779
+      874 744 859 709 843 674 827 639 811 604 796 569 780 534 764 499
+      748 464 733 429 717 394 701 359</data></Position></Frame00001Target00002>
+<Frame00001Target00003>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1276 424 1255 419 1234 414 1213 409 1192 404 1171 399 1150 394
+      1129 389 1108 384 1087 379 1066 374 1045 369 1023 364 1002 359 981
+      354 960 349 939 344 918 339 897 334 876 329</data></Position></Frame00001Target00003>
+<Frame00002TargetNumber>4.</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1200 1024 1170 989 1140 954</data></Position></Frame00002Target00000>
+<Frame00002Target00001>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 750 33 728 65 706 97 684 130 662 162 640 194 618 227 596 259 574
+      291 552 324 530 356 508 388 486 420 464 453 442 485 420 517 398
+      550 376 582 354 614 332</data></Position></Frame00002Target00001>
+<Frame00002Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      965 1024 952 989 939 954 925 919 912 884 899 849 886 814 872 779
+      859 744 846 709 832 674 819 639 806 604 792 569 779 534 766 499
+      753 464 739 429 726 394 713 359</data></Position></Frame00002Target00002>
+<Frame00002Target00003>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1279 487 1255 479 1231 471 1208 463 1184 455 1160 447 1137 439
+      1113 431 1089 423 1065 415 1042 407 1018 399 994 391 970 383 947
+      375 923 367 899 359 876 351 852 343 828 335</data></Position></Frame00002Target00003>
+<Frame00003TargetNumber>4.</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1200 1024 1170 989 1140 954</data></Position></Frame00003Target00000>
+<Frame00003Target00001>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 745 32 724 63 703 95 682 127 661 159 640 190 619 222 598 254 577
+      285 556 317 535 349 514 380 493 412 472 444 451 476 430 507 409
+      539 388 571 367 602 346</data></Position></Frame00003Target00001>
+<Frame00003Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      970 1024 957 989 943 954 929 919 915 884 902 849 888 814 874 779
+      861 744 847 709 833 674 819 639 806 604 792 569 778 534 765 499
+      751 464 737 429 723 394 710 359</data></Position></Frame00003Target00002>
+<Frame00003Target00003>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1200 1024 1170 989 1140 954</data></Position></Frame00003Target00003>
+<Frame00004TargetNumber>4.</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1200 1024 1170 989 1140 954</data></Position></Frame00004Target00000>
+<Frame00004Target00001>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 744 31 723 63 702 94 681 126 660 157 639 189 618 220 597 252 576
+      283 555 315 534 346 513 378 492 409 471 441 450 473 429 504 408
+      536 387 567 366 599 345</data></Position></Frame00004Target00001>
+<Frame00004Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      966 1024 953 989 939 954 926 919 912 884 899 849 886 814 872 779
+      859 744 846 709 832 674 819 639 806 604 792 569 779 534 766 499
+      752 464 739 429 726 394 712 359</data></Position></Frame00004Target00002>
+<Frame00004Target00003>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1278 534 1252 523 1226 512 1199 501 1173 490 1146 479 1120 468
+      1094 457 1067 446 1041 435 1014 424 988 413 962 402 935 391 909
+      380 882 369 856 358 830 347 803 336 777 325</data></Position></Frame00004Target00003>
+<Frame00005TargetNumber>4.</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 585 32 572 64 559 96 546 128 533 160 520 192 507 224 494 256 481
+      288 468 320 455 353 442 385 429 417 416 449 403 481 390 513 377
+      545 364 577 351 609 338</data></Position></Frame00005Target00000>
+<Frame00005Target00001>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 739 31 718 62 697 94 676 125 655 156 634 188 613 219 592 250 571
+      281 550 313 529 344 508 375 487 406 466 438 445 469 424 500 403
+      531 382 563 361 594 340</data></Position></Frame00005Target00001>
+<Frame00005Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      993 1024 979 989 964 954 949 919 934 884 919 849 904 814 890 779
+      875 744 860 709 845 674 830 639 815 604 800 569 786 534 771 499
+      756 464 741 429 726 394 711 359</data></Position></Frame00005Target00002>
+<Frame00005Target00003>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1200 1024 1170 989 1140 954</data></Position></Frame00005Target00003>
+<Frame00006TargetNumber>3.</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1 742 32 721 63 700 94 679 125 658 156 637 187 616 219 595 250 574
+      281 553 312 532 343 511 374 490 406 469 437 448 468 427 499 406
+      530 385 561 364 592 343</data></Position></Frame00006Target00000>
+<Frame00006Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      974 1024 960 989 947 954 933 919 919 884 905 849 891 814 877 779
+      864 744 850 709 836 674 822 639 808 604 794 569 781 534 767 499
+      753 464 739 429 725 394 711 359</data></Position></Frame00006Target00001>
+<Frame00006Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1277 415 1254 410 1231 405 1207 400 1184 395 1161 390 1138 385
+      1115 380 1092 375 1069 370 1046 365 1023 360 1000 355 977 350 954
+      345 930 340 907 335 884 330 861 325 838 320</data></Position></Frame00006Target00002>
+<Frame00007TargetNumber>3.</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 739 32 718 64 697 95 676 127 655 158 634 190 613 221 592 253 571
+      285 550 316 529 348 508 379 487 411 466 442 445 474 424 506 403
+      537 382 569 361 600 340</data></Position></Frame00007Target00000>
+<Frame00007Target00001>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      973 1024 959 989 945 954 932 919 918 884 904 849 890 814 877 779
+      863 744 849 709 835 674 822 639 808 604 794 569 780 534 767 499
+      753 464 739 429 725 394 712 359</data></Position></Frame00007Target00001>
+<Frame00007Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      802 1024 800 989 798 954 797 919 795 884 793 849 791 814 790 779
+      788 744 786 709 784 674 783 639 781 604 779 569 777 534 776 499
+      774 464 772 429 770 394 769 359</data></Position></Frame00007Target00002>
+<Frame00008TargetNumber>3.</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 745 31 724 61 703 92 682 123 661 154 640 185 619 216 598 247 577
+      278 556 309 535 340 514 371 493 402 472 433 451 464 430 494 409
+      525 388 556 367 587 346</data></Position></Frame00008Target00000>
+<Frame00008Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      980 1024 966 989 951 954 937 919 922 884 908 849 894 814 879 779
+      865 744 850 709 836 674 821 639 807 604 792 569 778 534 764 499
+      749 464 735 429 720 394 706 359</data></Position></Frame00008Target00001>
+<Frame00008Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1278 481 1253 473 1228 465 1203 457 1179 449 1154 441 1129 433
+      1104 425 1079 417 1054 409 1030 401 1005 393 980 385 955 377 930
+      369 905 361 881 353 856 345 831 337 806 329</data></Position></Frame00008Target00002>
+<Frame00009TargetNumber>4.</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1 704 32 685 63 666 95 647 126 628 158 609 189 590 221 571 252 552
+      284 533 315 514 347 495 378 476 410 457 441 438 472 419 504 400
+      535 381 567 362 598 343</data></Position></Frame00009Target00000>
+<Frame00009Target00001>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 743 32 722 63 701 94 680 126 659 157 638 188 617 220 596 251 575
+      282 554 314 533 345 512 376 491 408 470 439 449 470 428 502 407
+      533 386 564 365 596 344</data></Position></Frame00009Target00001>
+<Frame00009Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      947 1024 935 989 922 954 910 919 898 884 885 849 873 814 861 779
+      848 744 836 709 823 674 811 639 799 604 786 569 774 534 762 499
+      749 464 737 429 725 394 712 359</data></Position></Frame00009Target00002>
+<Frame00009Target00003>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1277 475 1251 467 1225 459 1198 451 1172 443 1146 435 1120 427
+      1094 419 1068 411 1041 403 1015 395 989 387 963 379 937 371 911
+      363 884 355 858 347 832 339 806 331 780 323</data></Position></Frame00009Target00003>
+<Frame00010TargetNumber>3.</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1 728 33 707 66 686 99 665 131 644 164 623 197 602 229 581 262 560
+      294 539 327 518 360 497 392 476 425 455 458 434 490 413 523 392
+      555 371 588 350 621 329</data></Position></Frame00010Target00000>
+<Frame00010Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1279 541 1254 530 1229 519 1203 508 1178 497 1153 486 1127 475
+      1102 464 1077 453 1052 442 1026 431 1001 420 976 409 950 398 925
+      387 900 376 875 365 849 354 824 343 799 332</data></Position></Frame00010Target00001>
+<Frame00010Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1278 425 1257 420 1237 415 1217 410 1197 405 1176 400 1156 395
+      1136 390 1116 385 1095 380 1075 375 1055 370 1035 365 1014 360 994
+      355 974 350 954 345 933 340 913 335 893 330</data></Position></Frame00010Target00002>
+<Frame00011TargetNumber>4.</Frame00011TargetNumber>
+<Frame00011Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 730 33 709 65 688 97 667 130 646 162 625 195 604 227 583 260 562
+      292 541 325 520 357 499 390 478 422 457 455 436 487 415 520 394
+      552 373 585 352 617 331</data></Position></Frame00011Target00000>
+<Frame00011Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      972 1024 958 989 944 954 930 919 916 884 902 849 888 814 874 779
+      860 744 847 709 833 674 819 639 805 604 791 569 777 534 763 499
+      749 464 735 429 721 394 707 359</data></Position></Frame00011Target00001>
+<Frame00011Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1279 606 1255 592 1231 578 1207 564 1183 550 1159 536 1135 522
+      1112 508 1088 494 1064 480 1040 466 1016 452 992 438 968 424 944
+      410 920 396 896 382 872 368 848 354 825 340</data></Position></Frame00011Target00002>
+<Frame00011Target00003>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1279 474 1254 466 1229 458 1203 450 1178 442 1153 434 1128 426
+      1103 418 1078 410 1053 402 1027 394 1002 386 977 378 952 370 927
+      362 902 354 877 346 852 338 826 330 801 322</data></Position></Frame00011Target00003>
+<Frame00012TargetNumber>3.</Frame00012TargetNumber>
+<Frame00012Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 733 32 712 65 691 97 670 129 649 162 628 194 607 227 586 259 565
+      292 544 324 523 357 502 389 481 422 460 454 439 487 418 519 397
+      552 376 584 355 617 334</data></Position></Frame00012Target00000>
+<Frame00012Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      972 1024 958 989 944 954 930 919 916 884 902 849 888 814 874 779
+      860 744 846 709 832 674 818 639 804 604 790 569 776 534 762 499
+      748 464 735 429 721 394 707 359</data></Position></Frame00012Target00001>
+<Frame00012Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1278 429 1253 423 1228 417 1203 411 1179 405 1154 399 1129 393
+      1104 387 1079 381 1054 375 1029 369 1004 363 979 357 954 351 929
+      345 905 339 880 333 855 327 830 321 805 315</data></Position></Frame00012Target00002>
+<Frame00013TargetNumber>3.</Frame00013TargetNumber>
+<Frame00013Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 735 32 714 64 693 97 672 129 651 162 630 194 609 227 588 259 567
+      291 546 324 525 356 504 389 483 421 462 454 441 486 420 519 399
+      551 378 583 357 616 336</data></Position></Frame00013Target00000>
+<Frame00013Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      992 1024 976 989 961 954 946 919 931 884 915 849 900 814 885 779
+      870 744 854 709 839 674 824 639 809 604 793 569 778 534 763 499
+      747 464 732 429 717 394 702 359</data></Position></Frame00013Target00001>
+<Frame00013Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 684 69 666 138 648 207 630 276 612 345 594 414 576 483 558 552
+      540 621 522 690 504 759 486 828 468 897 450 966 432 1035 414 1104
+      396 1173 378 1242 360 1311 342</data></Position></Frame00013Target00002>
+<Frame00014TargetNumber>3.</Frame00014TargetNumber>
+<Frame00014Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 733 32 712 64 691 97 670 129 649 162 628 194 607 226 586 259 565
+      291 544 324 523 356 502 388 481 421 460 453 439 486 418 518 397
+      550 376 583 355 615 334</data></Position></Frame00014Target00000>
+<Frame00014Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      968 1024 954 989 940 954 926 919 912 884 898 849 884 814 870 779
+      857 744 843 709 829 674 815 639 801 604 787 569 773 534 759 499
+      745 464 731 429 717 394 704 359</data></Position></Frame00014Target00001>
+<Frame00014Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1268 461 1136 454 1005 447 874 440 743 433 612 426 481 419 350 412
+      219 405 88 398 -42 391 -173 384 -305 377 -436 370 -567 363 -698
+      356 -829 349 -960 342 -1091 335 -1222 328</data></Position></Frame00014Target00002>
+<Frame00015TargetNumber>3.</Frame00015TargetNumber>
+<Frame00015Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1 734 33 713 65 692 97 671 129 650 161 629 193 608 225 587 257 566
+      290 545 322 524 354 503 386 482 418 461 450 440 482 419 514 398
+      546 377 578 356 610 335</data></Position></Frame00015Target00000>
+<Frame00015Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      738 1024 737 989 736 954 735 919 734 884 732 849 731 814 730 779
+      729 744 727 709 726 674 725 639 724 604 723 569 721 534 720 499
+      719 464 718 429 717 394 715 359</data></Position></Frame00015Target00001>
+<Frame00015Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1278 495 1253 486 1227 477 1202 468 1177 459 1151 450 1126 441
+      1101 432 1075 423 1050 414 1025 405 999 396 974 387 949 378 923
+      369 898 360 873 351 847 342 822 333 796 324</data></Position></Frame00015Target00002>
+<Frame00016TargetNumber>3.</Frame00016TargetNumber>
+<Frame00016Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 736 33 715 65 694 98 673 130 652 162 631 195 610 227 589 259 568
+      292 547 324 526 356 505 389 484 421 463 453 442 486 421 518 400
+      550 379 583 358 615 337</data></Position></Frame00016Target00000>
+<Frame00016Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      947 1024 935 989 922 954 910 919 897 884 885 849 873 814 860 779
+      848 744 835 709 823 674 810 639 798 604 785 569 773 534 760 499
+      748 464 736 429 723 394 711 359</data></Position></Frame00016Target00001>
+<Frame00016Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1279 509 1251 499 1222 489 1193 479 1164 469 1136 459 1107 449
+      1078 439 1049 429 1021 419 992 409 963 399 934 389 905 379 877 369
+      848 359 819 349 790 339 762 329 733 319</data></Position></Frame00016Target00002>
+<Frame00017TargetNumber>4.</Frame00017TargetNumber>
+<Frame00017Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 727 31 707 63 687 94 667 125 647 156 627 188 607 219 587 250 567
+      281 547 313 527 344 507 375 487 406 467 438 447 469 427 500 407
+      531 387 563 367 594 347</data></Position></Frame00017Target00000>
+<Frame00017Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      899 1024 889 989 879 954 870 919 860 884 850 849 840 814 830 779
+      820 744 811 709 801 674 791 639 781 604 771 569 761 534 751 499
+      742 464 732 429 722 394 712 359</data></Position></Frame00017Target00001>
+<Frame00017Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      965 1024 951 989 938 954 924 919 911 884 897 849 884 814 870 779
+      856 744 843 709 829 674 816 639 802 604 788 569 775 534 761 499
+      748 464 734 429 720 394 707 359</data></Position></Frame00017Target00002>
+<Frame00017Target00003>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1278 520 1253 510 1229 500 1204 490 1179 480 1154 470 1129 460
+      1104 450 1079 440 1054 430 1029 420 1004 410 979 400 954 390 929
+      380 904 370 879 360 854 350 829 340 804 330</data></Position></Frame00017Target00003>
+<Frame00018TargetNumber>4.</Frame00018TargetNumber>
+<Frame00018Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 736 32 715 64 694 96 673 128 652 160 631 191 610 223 589 255 568
+      287 547 319 526 351 505 383 484 415 463 447 442 479 421 511 400
+      543 379 575 358 607 337</data></Position></Frame00018Target00000>
+<Frame00018Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      956 1024 943 989 930 954 916 919 903 884 890 849 876 814 863 779
+      850 744 837 709 823 674 810 639 797 604 783 569 770 534 757 499
+      743 464 730 429 717 394 703 359</data></Position></Frame00018Target00001>
+<Frame00018Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1279 632 1255 616 1231 600 1206 584 1182 568 1158 552 1134 536
+      1110 520 1085 504 1061 488 1037 472 1013 456 989 440 965 424 940
+      408 916 392 892 376 868 360 844 344 819 328</data></Position></Frame00018Target00002>
+<Frame00018Target00003>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1277 425 1256 420 1236 415 1216 410 1196 405 1176 400 1156 395
+      1136 390 1116 385 1096 380 1076 375 1056 370 1036 365 1015 360 995
+      355 975 350 955 345 935 340 915 335 895 330</data></Position></Frame00018Target00003>
+<Frame00019TargetNumber>4.</Frame00019TargetNumber>
+<Frame00019Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1 729 33 708 66 687 98 666 130 645 163 624 195 603 228 582 260 561
+      292 540 325 519 357 498 390 477 422 456 454 435 487 414 519 393
+      552 372 584 351 616 330</data></Position></Frame00019Target00000>
+<Frame00019Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      809 1024 804 989 800 954 795 919 790 884 785 849 780 814 775 779
+      771 744 766 709 761 674 756 639 751 604 747 569 742 534 737 499
+      732 464 727 429 722 394 718 359</data></Position></Frame00019Target00001>
+<Frame00019Target00002>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      943 1024 931 989 918 954 906 919 894 884 881 849 869 814 856 779
+      844 744 831 709 819 674 807 639 794 604 782 569 769 534 757 499
+      745 464 732 429 720 394 707 359</data></Position></Frame00019Target00002>
+<Frame00019Target00003>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1277 422 1255 417 1234 412 1213 407 1191 402 1170 397 1148 392
+      1127 387 1105 382 1084 377 1063 372 1041 367 1020 362 998 357 977
+      352 955 347 934 342 912 337 891 332 870 327</data></Position></Frame00019Target00003>
+<Frame00020TargetNumber>3.</Frame00020TargetNumber>
+<Frame00020Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 726 32 706 63 686 94 666 125 646 157 626 188 606 219 586 251 566
+      282 546 313 526 345 506 376 486 407 466 438 446 470 426 501 406
+      532 386 564 366 595 346</data></Position></Frame00020Target00000>
+<Frame00020Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      949 1024 936 989 924 954 911 919 898 884 885 849 873 814 860 779
+      847 744 834 709 821 674 809 639 796 604 783 569 770 534 758 499
+      745 464 732 429 719 394 707 359</data></Position></Frame00020Target00001>
+<Frame00020Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1277 426 1257 421 1237 416 1217 411 1197 406 1178 401 1158 396
+      1138 391 1118 386 1098 381 1079 376 1059 371 1039 366 1019 361 999
+      356 980 351 960 346 940 341 920 336 900 331</data></Position></Frame00020Target00002>
+<Frame00021TargetNumber>4.</Frame00021TargetNumber>
+<Frame00021Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1 728 34 707 66 686 99 665 132 644 165 623 197 602 230 581 263 560
+      295 539 328 518 361 497 394 476 426 455 459 434 492 413 524 392
+      557 371 590 350 623 329</data></Position></Frame00021Target00000>
+<Frame00021Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      947 1024 934 989 921 954 909 919 896 884 883 849 870 814 858 779
+      845 744 832 709 819 674 807 639 794 604 781 569 768 534 756 499
+      743 464 730 429 717 394 704 359</data></Position></Frame00021Target00001>
+<Frame00021Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1278 546 1253 535 1227 524 1202 513 1177 502 1151 491 1126 480
+      1100 469 1075 458 1050 447 1024 436 999 425 973 414 948 403 923
+      392 897 381 872 370 846 359 821 348 796 337</data></Position></Frame00021Target00002>
+<Frame00021Target00003>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1276 426 1255 421 1235 416 1215 411 1195 406 1174 401 1154 396
+      1134 391 1114 386 1094 381 1073 376 1053 371 1033 366 1013 361 992
+      356 972 351 952 346 932 341 911 336 891 331</data></Position></Frame00021Target00003>
+<Frame00022TargetNumber>3.</Frame00022TargetNumber>
+<Frame00022Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1 723 32 703 64 683 96 663 127 643 159 623 190 603 222 583 254 563
+      285 543 317 523 349 503 380 483 412 463 444 443 475 423 507 403
+      539 383 570 363 602 343</data></Position></Frame00022Target00000>
+<Frame00022Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      912 1024 902 989 891 954 880 919 870 884 859 849 849 814 838 779
+      827 744 817 709 806 674 796 639 785 604 774 569 764 534 753 499
+      743 464 732 429 721 394 711 359</data></Position></Frame00022Target00001>
+<Frame00022Target00002>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1200 1024 1170 989 1140 954</data></Position></Frame00022Target00002>
+<Frame00023TargetNumber>3.</Frame00023TargetNumber>
+<Frame00023Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 738 32 717 64 696 96 675 128 654 160 633 192 612 223 591 255 570
+      287 549 319 528 351 507 383 486 415 465 447 444 478 423 510 402
+      542 381 574 360 606 339</data></Position></Frame00023Target00000>
+<Frame00023Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      924 1024 912 989 901 954 890 919 879 884 867 849 856 814 845 779
+      833 744 822 709 811 674 799 639 788 604 777 569 765 534 754 499
+      743 464 731 429 720 394 709 359</data></Position></Frame00023Target00001>
+<Frame00023Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1277 482 1252 474 1227 466 1202 458 1177 450 1151 442 1126 434
+      1101 426 1076 418 1051 410 1026 402 1001 394 975 386 950 378 925
+      370 900 362 875 354 850 346 825 338 799 330</data></Position></Frame00023Target00002>
+<Frame00024TargetNumber>3.</Frame00024TargetNumber>
+<Frame00024Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1 729 33 708 66 687 99 666 131 645 164 624 197 603 229 582 262 561
+      295 540 328 519 360 498 393 477 426 456 458 435 491 414 524 393
+      556 372 589 351 622 330</data></Position></Frame00024Target00000>
+<Frame00024Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      927 1024 916 989 904 954 893 919 882 884 870 849 859 814 847 779
+      836 744 825 709 813 674 802 639 791 604 779 569 768 534 756 499
+      745 464 734 429 722 394 711 359</data></Position></Frame00024Target00001>
+<Frame00024Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1277 473 1250 465 1223 457 1196 449 1169 441 1142 433 1115 425
+      1088 417 1061 409 1034 401 1007 393 980 385 953 377 926 369 899
+      361 872 353 845 345 818 337 791 329 764 321</data></Position></Frame00024Target00002>
+<Frame00025TargetNumber>3.</Frame00025TargetNumber>
+<Frame00025Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 735 31 714 63 693 95 672 127 651 159 630 190 609 222 588 254 567
+      286 546 318 525 349 504 381 483 413 462 445 441 477 420 508 399
+      540 378 572 357 604 336</data></Position></Frame00025Target00000>
+<Frame00025Target00001>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      930 1024 919 989 907 954 895 919 884 884 872 849 861 814 849 779
+      838 744 826 709 815 674 803 639 792 604 780 569 768 534 757 499
+      745 464 734 429 722 394 711 359</data></Position></Frame00025Target00001>
+<Frame00025Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1278 426 1258 421 1239 416 1219 411 1199 406 1179 401 1159 396
+      1139 391 1119 386 1099 381 1079 376 1059 371 1039 366 1019 361 999
+      356 979 351 959 346 939 341 919 336 900 331</data></Position></Frame00025Target00002>
+<Frame00026TargetNumber>3.</Frame00026TargetNumber>
+<Frame00026Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 726 31 706 62 686 94 666 125 646 157 626 188 606 220 586 251 566
+      282 546 314 526 345 506 377 486 408 466 440 446 471 426 502 406
+      534 386 565 366 597 346</data></Position></Frame00026Target00000>
+<Frame00026Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1278 549 1252 537 1225 525 1199 513 1173 501 1147 489 1121 477
+      1095 465 1069 453 1043 441 1017 429 991 417 965 405 938 393 912
+      381 886 369 860 357 834 345 808 333 782 321</data></Position></Frame00026Target00001>
+<Frame00026Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1278 423 1257 418 1236 413 1215 408 1193 403 1172 398 1151 393
+      1130 388 1109 383 1088 378 1067 373 1045 368 1024 363 1003 358 982
+      353 961 348 940 343 918 338 897 333 876 328</data></Position></Frame00026Target00002>
+<Frame00027TargetNumber>4.</Frame00027TargetNumber>
+<Frame00027Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 734 33 713 65 692 98 671 131 650 163 629 196 608 228 587 261 566
+      293 545 326 524 359 503 391 482 424 461 456 440 489 419 521 398
+      554 377 587 356 619 335</data></Position></Frame00027Target00000>
+<Frame00027Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      844 1024 837 989 831 954 824 919 817 884 810 849 804 814 797 779
+      790 744 784 709 777 674 770 639 763 604 757 569 750 534 743 499
+      736 464 730 429 723 394 716 359</data></Position></Frame00027Target00001>
+<Frame00027Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      964 1024 950 989 937 954 923 919 909 884 896 849 882 814 868 779
+      855 744 841 709 827 674 814 639 800 604 787 569 773 534 759 499
+      746 464 732 429 718 394 705 359</data></Position></Frame00027Target00002>
+<Frame00027Target00003>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1275 422 1252 417 1229 412 1206 407 1183 402 1160 397 1137 392
+      1114 387 1091 382 1068 377 1045 372 1022 367 999 362 976 357 953
+      352 930 347 907 342 884 337 861 332 838 327</data></Position></Frame00027Target00003>
+<Frame00028TargetNumber>4.</Frame00028TargetNumber>
+<Frame00028Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 735 33 714 65 693 98 672 131 651 163 630 196 609 228 588 261 567
+      293 546 326 525 358 504 391 483 423 462 456 441 488 420 521 399
+      553 378 586 357 618 336</data></Position></Frame00028Target00000>
+<Frame00028Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      925 1024 914 989 903 954 892 919 881 884 870 849 859 814 848 779
+      837 744 826 709 815 674 804 639 793 604 782 569 771 534 760 499
+      749 464 738 429 727 394 716 359</data></Position></Frame00028Target00001>
+<Frame00028Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1278 632 1253 616 1228 600 1203 584 1178 568 1152 552 1127 536
+      1102 520 1077 504 1052 488 1027 472 1002 456 977 440 951 424 926
+      408 901 392 876 376 851 360 826 344 801 328</data></Position></Frame00028Target00002>
+<Frame00028Target00003>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1279 476 1254 468 1230 460 1205 452 1180 444 1155 436 1131 428
+      1106 420 1081 412 1057 404 1032 396 1007 388 983 380 958 372 933
+      364 909 356 884 348 859 340 835 332 810 324</data></Position></Frame00028Target00003>
+<Frame00029TargetNumber>4.</Frame00029TargetNumber>
+<Frame00029Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1 718 33 698 66 678 98 658 130 638 163 618 195 598 227 578 259 558
+      292 538 324 518 356 498 389 478 421 458 453 438 485 418 518 398
+      550 378 582 358 615 338</data></Position></Frame00029Target00000>
+<Frame00029Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      914 1024 904 989 893 954 883 919 873 884 862 849 852 814 842 779
+      831 744 821 709 811 674 800 639 790 604 780 569 769 534 759 499
+      749 464 739 429 728 394 718 359</data></Position></Frame00029Target00001>
+<Frame00029Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1279 545 1255 534 1231 523 1207 512 1183 501 1159 490 1135 479
+      1111 468 1087 457 1063 446 1038 435 1014 424 990 413 966 402 942
+      391 918 380 894 369 870 358 846 347 822 336</data></Position></Frame00029Target00002>
+<Frame00029Target00003>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1278 422 1257 417 1237 412 1216 407 1195 402 1174 397 1154 392
+      1133 387 1112 382 1092 377 1071 372 1050 367 1030 362 1009 357 988
+      352 968 347 947 342 926 337 905 332 885 327</data></Position></Frame00029Target00003>
+<Frame00030TargetNumber>3.</Frame00030TargetNumber>
+<Frame00030Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1 733 33 712 66 691 98 670 131 649 163 628 196 607 228 586 261 565
+      293 544 326 523 358 502 391 481 423 460 456 439 488 418 521 397
+      553 376 586 355 618 334</data></Position></Frame00030Target00000>
+<Frame00030Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      946 1024 934 989 922 954 909 919 897 884 885 849 873 814 861 779
+      849 744 836 709 824 674 812 639 800 604 788 569 776 534 763 499
+      751 464 739 429 727 394 715 359</data></Position></Frame00030Target00001>
+<Frame00030Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1277 424 1257 419 1237 414 1217 409 1197 404 1177 399 1157 394
+      1136 389 1116 384 1096 379 1076 374 1056 369 1036 364 1016 359 995
+      354 975 349 955 344 935 339 915 334 895 329</data></Position></Frame00030Target00002>
+<Frame00031TargetNumber>3.</Frame00031TargetNumber>
+<Frame00031Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 733 32 712 65 691 98 670 131 649 163 628 196 607 229 586 262 565
+      295 544 327 523 360 502 393 481 426 460 458 439 491 418 524 397
+      557 376 590 355 622 334</data></Position></Frame00031Target00000>
+<Frame00031Target00001>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      941 1024 930 989 918 954 906 919 894 884 882 849 870 814 858 779
+      847 744 835 709 823 674 811 639 799 604 787 569 776 534 764 499
+      752 464 740 429 728 394 716 359</data></Position></Frame00031Target00001>
+<Frame00031Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1279 580 1255 567 1231 554 1207 541 1182 528 1158 515 1134 502
+      1110 489 1085 476 1061 463 1037 450 1013 437 988 424 964 411 940
+      398 915 385 891 372 867 359 843 346 818 333</data></Position></Frame00031Target00002>
+<Frame00032TargetNumber>4.</Frame00032TargetNumber>
+<Frame00032Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1 738 33 717 65 696 98 675 130 654 162 633 194 612 226 591 259 570
+      291 549 323 528 355 507 387 486 420 465 452 444 484 423 516 402
+      548 381 581 360 613 339</data></Position></Frame00032Target00000>
+<Frame00032Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      947 1024 935 989 922 954 910 919 898 884 886 849 874 814 862 779
+      850 744 838 709 826 674 814 639 802 604 790 569 778 534 766 499
+      754 464 742 429 730 394 718 359</data></Position></Frame00032Target00001>
+<Frame00032Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1278 543 1256 532 1233 521 1210 510 1188 499 1165 488 1143 477
+      1120 466 1097 455 1075 444 1052 433 1029 422 1007 411 984 400 961
+      389 939 378 916 367 894 356 871 345 848 334</data></Position></Frame00032Target00002>
+<Frame00032Target00003>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1278 424 1255 419 1232 414 1209 409 1187 404 1164 399 1141 394
+      1118 389 1095 384 1073 379 1050 374 1027 369 1004 364 981 359 959
+      354 936 349 913 344 890 339 867 334 845 329</data></Position></Frame00032Target00003>
+<Frame00033TargetNumber>3.</Frame00033TargetNumber>
+<Frame00033Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 743 32 722 63 701 95 680 127 659 159 638 191 617 223 596 255 575
+      287 554 319 533 350 512 382 491 414 470 446 449 478 428 510 407
+      542 386 574 365 606 344</data></Position></Frame00033Target00000>
+<Frame00033Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      936 1024 925 989 913 954 902 919 891 884 879 849 868 814 856 779
+      845 744 834 709 822 674 811 639 799 604 788 569 777 534 765 499
+      754 464 742 429 731 394 720 359</data></Position></Frame00033Target00001>
+<Frame00033Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1272 426 1221 421 1170 416 1119 411 1068 406 1017 401 966 396 915
+      391 864 386 813 381 761 376 710 371 659 366 608 361 557 356 506
+      351 455 346 404 341 353 336 302 331</data></Position></Frame00033Target00002>
+<Frame00034TargetNumber>4.</Frame00034TargetNumber>
+<Frame00034Target00000>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 535 36 524 72 513 108 502 143 491 179 480 215 469 251 458 287
+      447 323 436 358 425 394 414 430 403 466 392 502 381 538 370 573
+      359 609 348 645 337 681 326</data></Position></Frame00034Target00000>
+<Frame00034Target00001>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 748 33 726 66 704 99 682 133 660 166 638 199 616 232 594 266 572
+      299 550 332 528 365 506 399 484 432 462 465 440 498 418 532 396
+      565 374 598 352 631 330</data></Position></Frame00034Target00001>
+<Frame00034Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      935 1024 924 989 913 954 902 919 891 884 880 849 868 814 857 779
+      846 744 835 709 824 674 813 639 801 604 790 569 779 534 768 499
+      757 464 746 429 734 394 723 359</data></Position></Frame00034Target00002>
+<Frame00034Target00003>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1278 481 1252 473 1227 465 1201 457 1175 449 1150 441 1124 433
+      1098 425 1073 417 1047 409 1021 401 996 393 970 385 944 377 919
+      369 893 361 867 353 842 345 816 337 790 329</data></Position></Frame00034Target00003>
+<Frame00035TargetNumber>4.</Frame00035TargetNumber>
+<Frame00035Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1 745 33 724 65 703 98 682 130 661 162 640 194 619 226 598 259 577
+      291 556 323 535 355 514 388 493 420 472 452 451 484 430 516 409
+      549 388 581 367 613 346</data></Position></Frame00035Target00000>
+<Frame00035Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      896 1024 887 989 878 954 869 919 860 884 851 849 842 814 833 779
+      824 744 815 709 806 674 797 639 788 604 779 569 770 534 761 499
+      752 464 743 429 734 394 725 359</data></Position></Frame00035Target00001>
+<Frame00035Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      976 1024 963 989 949 954 936 919 922 884 908 849 895 814 881 779
+      867 744 854 709 840 674 827 639 813 604 799 569 786 534 772 499
+      759 464 745 429 731 394 718 359</data></Position></Frame00035Target00002>
+<Frame00035Target00003>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1279 543 1254 532 1230 521 1205 510 1181 499 1156 488 1132 477
+      1108 466 1083 455 1059 444 1034 433 1010 422 985 411 961 400 937
+      389 912 378 888 367 863 356 839 345 814 334</data></Position></Frame00035Target00003>
+<Frame00036TargetNumber>3.</Frame00036TargetNumber>
+<Frame00036Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1 728 34 707 68 686 102 665 135 644 169 623 203 602 236 581 270
+      560 303 539 337 518 371 497 404 476 438 455 472 434 505 413 539
+      392 572 371 606 350 640 329</data></Position></Frame00036Target00000>
+<Frame00036Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      942 1024 930 989 919 954 908 919 896 884 885 849 873 814 862 779
+      851 744 839 709 828 674 816 639 805 604 794 569 782 534 771 499
+      759 464 748 429 737 394 725 359</data></Position></Frame00036Target00001>
+<Frame00036Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1279 473 1252 465 1225 457 1198 449 1171 441 1144 433 1117 425
+      1090 417 1063 409 1036 401 1009 393 982 385 955 377 928 369 901
+      361 874 353 848 345 821 337 794 329 767 321</data></Position></Frame00036Target00002>
+<Frame00037TargetNumber>3.</Frame00037TargetNumber>
+<Frame00037Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 741 32 720 65 699 97 678 129 657 161 636 193 615 226 594 258 573
+      290 552 322 531 354 510 387 489 419 468 451 447 483 426 515 405
+      548 384 580 363 612 342</data></Position></Frame00037Target00000>
+<Frame00037Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      975 1024 962 989 949 954 936 919 923 884 910 849 896 814 883 779
+      870 744 857 709 844 674 831 639 817 604 804 569 791 534 778 499
+      765 464 752 429 738 394 725 359</data></Position></Frame00037Target00001>
+<Frame00037Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1279 500 1257 491 1234 482 1212 473 1189 464 1167 455 1144 446
+      1122 437 1099 428 1077 419 1054 410 1032 401 1009 392 987 383 964
+      374 942 365 919 356 897 347 874 338 852 329</data></Position></Frame00037Target00002>
+<Frame00038TargetNumber>3.</Frame00038TargetNumber>
+<Frame00038Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1 752 34 730 67 708 100 686 133 664 166 642 199 620 232 598 265
+      576 298 554 331 532 364 510 397 488 430 466 463 444 496 422 529
+      400 562 378 595 356 628 334</data></Position></Frame00038Target00000>
+<Frame00038Target00001>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      984 1024 971 989 957 954 943 919 929 884 916 849 902 814 888 779
+      874 744 861 709 847 674 833 639 820 604 806 569 792 534 778 499
+      765 464 751 429 737 394 723 359</data></Position></Frame00038Target00001>
+<Frame00038Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1279 464 1257 457 1236 450 1214 443 1192 436 1170 429 1148 422
+      1127 415 1105 408 1083 401 1061 394 1039 387 1018 380 996 373 974
+      366 952 359 930 352 909 345 887 338 865 331</data></Position></Frame00038Target00002>
+<Frame00039TargetNumber>3.</Frame00039TargetNumber>
+<Frame00039Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1 754 34 732 67 710 100 688 133 666 166 644 199 622 232 600 265
+      578 298 556 331 534 364 512 397 490 430 468 463 446 496 424 529
+      402 563 380 596 358 629 336</data></Position></Frame00039Target00000>
+<Frame00039Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      975 1024 962 989 949 954 936 919 923 884 910 849 897 814 884 779
+      871 744 858 709 845 674 832 639 819 604 806 569 793 534 780 499
+      767 464 753 429 740 394 727 359</data></Position></Frame00039Target00001>
+<Frame00039Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1279 541 1256 530 1232 519 1209 508 1185 497 1162 486 1138 475
+      1115 464 1091 453 1068 442 1044 431 1021 420 997 409 974 398 950
+      387 927 376 903 365 880 354 856 343 833 332</data></Position></Frame00039Target00002>
+<Frame00040TargetNumber>3.</Frame00040TargetNumber>
+<Frame00040Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 749 33 727 67 705 101 683 135 661 169 639 202 617 236 595 270
+      573 304 551 338 529 371 507 405 485 439 463 473 441 507 419 540
+      397 574 375 608 353 642 331</data></Position></Frame00040Target00000>
+<Frame00040Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      921 1024 911 989 901 954 891 919 881 884 871 849 861 814 851 779
+      842 744 832 709 822 674 812 639 802 604 792 569 782 534 772 499
+      763 464 753 429 743 394 733 359</data></Position></Frame00040Target00001>
+<Frame00040Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1277 535 1253 524 1229 513 1204 502 1180 491 1156 480 1131 469
+      1107 458 1083 447 1058 436 1034 425 1009 414 985 403 961 392 936
+      381 912 370 888 359 863 348 839 337 815 326</data></Position></Frame00040Target00002>
+<Frame00041TargetNumber>3.</Frame00041TargetNumber>
+<Frame00041Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 764 32 742 64 720 97 698 129 676 162 654 194 632 227 610 259 588
+      292 566 324 544 356 522 389 500 421 478 454 456 486 434 519 412
+      551 390 583 368 616 346</data></Position></Frame00041Target00000>
+<Frame00041Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      955 1024 944 989 932 954 921 919 909 884 898 849 886 814 875 779
+      863 744 852 709 841 674 829 639 818 604 806 569 795 534 783 499
+      772 464 760 429 749 394 737 359</data></Position></Frame00041Target00001>
+<Frame00041Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1278 530 1252 519 1226 508 1200 497 1175 486 1149 475 1123 464
+      1097 453 1072 442 1046 431 1020 420 994 409 969 398 943 387 917
+      376 891 365 865 354 840 343 814 332 788 321</data></Position></Frame00041Target00002>
+<Frame00042TargetNumber>3.</Frame00042TargetNumber>
+<Frame00042Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 755 34 733 68 711 101 689 135 667 168 645 202 623 236 601 269
+      579 303 557 337 535 370 513 404 491 437 469 471 447 505 425 538
+      403 572 381 606 359 639 337</data></Position></Frame00042Target00000>
+<Frame00042Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1029 1024 1013 989 998 954 982 919 966 884 950 849 935 814 919 779
+      903 744 887 709 872 674 856 639 840 604 824 569 808 534 793 499
+      777 464 761 429 745 394 730 359</data></Position></Frame00042Target00001>
+<Frame00042Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1278 520 1255 510 1231 500 1208 490 1184 480 1161 470 1137 460
+      1114 450 1090 440 1067 430 1043 420 1020 410 996 400 973 390 949
+      380 926 370 902 360 879 350 855 340 832 330</data></Position></Frame00042Target00002>
+<Frame00043TargetNumber>4.</Frame00043TargetNumber>
+<Frame00043Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 749 34 727 68 705 102 683 137 661 171 639 205 617 239 595 273
+      573 308 551 342 529 376 507 410 485 444 463 479 441 513 419 547
+      397 581 375 615 353 650 331</data></Position></Frame00043Target00000>
+<Frame00043Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1004 1024 990 989 976 954 962 919 948 884 934 849 920 814 906 779
+      892 744 878 709 864 674 850 639 836 604 822 569 808 534 794 499
+      780 464 766 429 752 394 738 359</data></Position></Frame00043Target00001>
+<Frame00043Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1279 531 1254 520 1229 509 1204 498 1178 487 1153 476 1128 465
+      1103 454 1078 443 1053 432 1028 421 1003 410 978 399 953 388 928
+      377 903 366 877 355 852 344 827 333 802 322</data></Position></Frame00043Target00002>
+<Frame00043Target00003>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1278 417 1258 412 1237 407 1217 402 1196 397 1176 392 1155 387
+      1134 382 1114 377 1093 372 1073 367 1052 362 1032 357 1011 352 991
+      347 970 342 950 337 929 332 909 327 888 322</data></Position></Frame00043Target00003>
+<Frame00044TargetNumber>3.</Frame00044TargetNumber>
+<Frame00044Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1 772 35 749 69 726 103 703 137 680 171 657 205 634 239 611 272
+      588 306 565 340 542 374 519 408 496 442 473 476 450 510 427 544
+      404 578 381 612 358 646 335</data></Position></Frame00044Target00000>
+<Frame00044Target00001>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1019 1024 1004 989 989 954 975 919 960 884 945 849 930 814 915 779
+      901 744 886 709 871 674 856 639 841 604 826 569 812 534 797 499
+      782 464 767 429 752 394 738 359</data></Position></Frame00044Target00001>
+<Frame00044Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1278 417 1258 412 1237 407 1217 402 1197 397 1176 392 1156 387
+      1136 382 1115 377 1095 372 1074 367 1054 362 1034 357 1013 352 993
+      347 972 342 952 337 932 332 911 327 891 322</data></Position></Frame00044Target00002>
+<Frame00045TargetNumber>3.</Frame00045TargetNumber>
+<Frame00045Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 773 33 750 67 727 101 704 135 681 168 658 202 635 236 612 269
+      589 303 566 337 543 371 520 404 497 438 474 472 451 505 428 539
+      405 573 382 607 359 640 336</data></Position></Frame00045Target00000>
+<Frame00045Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1054 1024 1037 989 1021 954 1004 919 988 884 971 849 954 814 938
+      779 921 744 904 709 888 674 871 639 855 604 838 569 821 534 805
+      499 788 464 772 429 755 394 738 359</data></Position></Frame00045Target00001>
+<Frame00045Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1278 470 1252 462 1227 454 1201 446 1175 438 1150 430 1124 422
+      1098 414 1073 406 1047 398 1021 390 995 382 970 374 944 366 918
+      358 893 350 867 342 841 334 816 326 790 318</data></Position></Frame00045Target00002>
+<Frame00046TargetNumber>4.</Frame00046TargetNumber>
+<Frame00046Target00000>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1 667 35 650 70 633 105 616 139 599 174 582 209 565 244 548 278
+      531 313 514 348 497 382 480 417 463 452 446 487 429 521 412 556
+      395 591 378 625 361 660 344</data></Position></Frame00046Target00000>
+<Frame00046Target00001>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 786 33 763 66 740 99 717 132 694 164 671 197 648 230 625 263 602
+      296 579 329 556 362 533 395 510 428 487 461 464 494 441 527 418
+      560 395 593 372 626 349</data></Position></Frame00046Target00001>
+<Frame00046Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1021 1024 1007 989 992 954 978 919 963 884 949 849 935 814 920 779
+      906 744 891 709 877 674 862 639 848 604 833 569 819 534 804 499
+      790 464 776 429 761 394 747 359</data></Position></Frame00046Target00002>
+<Frame00046Target00003>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1278 414 1257 409 1236 404 1215 399 1194 394 1173 389 1152 384
+      1131 379 1110 374 1088 369 1067 364 1046 359 1025 354 1004 349 983
+      344 962 339 941 334 919 329 898 324 877 319</data></Position></Frame00046Target00003>
+<Frame00047TargetNumber>4.</Frame00047TargetNumber>
+<Frame00047Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 787 33 764 65 741 98 718 131 695 164 672 197 649 230 626 262 603
+      295 580 328 557 361 534 394 511 426 488 459 465 492 442 525 419
+      558 396 590 373 623 350</data></Position></Frame00047Target00000>
+<Frame00047Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1041 1024 1025 989 1010 954 995 919 979 884 964 849 948 814 933
+      779 918 744 902 709 887 674 871 639 856 604 840 569 825 534 810
+      499 794 464 779 429 763 394 748 359</data></Position></Frame00047Target00001>
+<Frame00047Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1279 520 1256 510 1233 500 1210 490 1187 480 1164 470 1141 460
+      1117 450 1094 440 1071 430 1048 420 1025 410 1002 400 979 390 956
+      380 933 370 910 360 887 350 864 340 841 330</data></Position></Frame00047Target00002>
+<Frame00047Target00003>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1278 415 1258 410 1238 405 1218 400 1197 395 1177 390 1157 385
+      1136 380 1116 375 1096 370 1076 365 1055 360 1035 355 1015 350 995
+      345 974 340 954 335 934 330 913 325 893 320</data></Position></Frame00047Target00003>
+<Frame00048TargetNumber>3.</Frame00048TargetNumber>
+<Frame00048Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 783 33 760 66 737 99 714 132 691 165 668 198 645 231 622 264 599
+      297 576 330 553 363 530 396 507 429 484 462 461 495 438 528 415
+      561 392 594 369 627 346</data></Position></Frame00048Target00000>
+<Frame00048Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1053 1024 1037 989 1021 954 1005 919 989 884 973 849 957 814 941
+      779 924 744 908 709 892 674 876 639 860 604 844 569 828 534 812
+      499 796 464 779 429 763 394 747 359</data></Position></Frame00048Target00001>
+<Frame00048Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1279 513 1255 503 1231 493 1207 483 1183 473 1159 463 1135 453
+      1111 443 1087 433 1063 423 1039 413 1015 403 991 393 967 383 943
+      373 919 363 895 353 871 343 847 333 823 323</data></Position></Frame00048Target00002>
+<Frame00049TargetNumber>4.</Frame00049TargetNumber>
+<Frame00049Target00000>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      0 796 34 772 68 748 102 724 135 700 169 676 203 652 237 628 270
+      604 304 580 338 556 372 532 405 508 439 484 473 460 507 436 540
+      412 574 388 608 364 642 340</data></Position></Frame00049Target00000>
+<Frame00049Target00001>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1020 1024 1006 989 992 954 978 919 963 884 949 849 935 814 921 779
+      907 744 893 709 878 674 864 639 850 604 836 569 822 534 808 499
+      794 464 779 429 765 394 751 359</data></Position></Frame00049Target00001>
+<Frame00049Target00002>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1111 1024 1092 989 1072 954 1053 919 1033 884 1014 849 994 814 975
+      779 955 744 936 709 916 674 896 639 877 604 857 569 838 534 818
+      499 799 464 779 429 760 394 740 359</data></Position></Frame00049Target00002>
+<Frame00049Target00003>
+  <Type>"白色虚线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>20</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      1279 433 1256 427 1232 421 1209 415 1186 409 1163 403 1139 397
+      1116 391 1093 385 1069 379 1046 373 1023 367 999 361 976 355 953
+      349 930 343 906 337 883 331 860 325 836 319</data></Position></Frame00049Target00003>
+</opencv_storage>
